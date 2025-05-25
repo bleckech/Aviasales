@@ -171,4 +171,11 @@ article img{
 .opis-jobserov{
     display:flex;
     justify-content: space-around;
+    background-color:#357ab8 ;
+    border-radius: 50%;
+    width: 400px;
+    height: 200px;
+    align-items: center;
+    
 }
+
